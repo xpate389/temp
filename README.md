@@ -29,3 +29,7 @@ You will need the following software installed on your system to run this soluti
 On Ubuntu 22.04 LTS, you can install Java and Maven using the following commands:
 ```bash
 sudo apt install openjdk-17-jdk maven
+```
+
+###Setup
+There are 5 datasets (Dataset1, Dataset2, Dataset3, Dataset4, Dataset5) that are used to evaluate the indexing performance. You can download the datasets from the following link:
