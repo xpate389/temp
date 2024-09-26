@@ -97,35 +97,30 @@ Index a Dataset:
 Example:
 
 ```bash
-Copy code
 > index ../datasets/Dataset1
 ```
 
 Search for a Term:
 
 ```bash
-Copy code
 > search <term>
 ```
 
 Example:
 
 ```bash
-Copy code
 > search Worms
 ```
 
 Search for Multiple Terms (AND):
 
 ```bash
-Copy code
 > search <term1> AND <term2>
 ```
 
 Example:
 
 ```bash
-Copy code
 > search distortion AND adaptation
 ```
 
