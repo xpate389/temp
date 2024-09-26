@@ -33,7 +33,7 @@ On Ubuntu 22.04 LTS, you can install Java and Maven using the following commands
 ##Setup
 There are 5 datasets (Dataset1, Dataset2, Dataset3, Dataset4, Dataset5) that are used to evaluate the indexing performance. You can download the datasets from the following link:
 
-Download Datasets
+{link}
 
 Steps to Setup the Dataset:
 Download the datasets and save them in the datasets directory. Create the directory if it doesn’t exist:
@@ -42,12 +42,14 @@ bash
 Copy code
 mkdir datasets
 Copy the dataset to the remote machine and unzip it:
+```bash
 
 bash
-Copy code
 scp Dataset1.zip cc@<remote-ip>:<path-to-repo>/datasets/.
 cd <path-to-repo>/datasets
 unzip Dataset1.zip
+```bash
+
 How to Build and Run the Java Solution
 Build Instructions:
 To compile and build the project, follow these steps:
