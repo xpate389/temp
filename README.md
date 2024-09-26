@@ -2,8 +2,8 @@
 
 **Jarvis College of Computing and Digital Media - DePaul University**
 
-**Student:** TO-DO-write-student-name  
-**Email:** TO-DO-write-email-address  
+**Student:** Ayush Patel
+**Email:** apate389@depaul.edu
 **Solution Programming Language:** Java  
 
 ---
