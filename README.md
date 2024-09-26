@@ -23,12 +23,13 @@ The application supports:
 
 You will need the following software installed on your system to run this solution:
 
-- **Java 17.x**  
-- **Maven 3.6.x**
+- Java 1.8.x
+- Maven 3.6.x or higher
 
 On Ubuntu 22.04 LTS, you can install Java and Maven using the following commands:
 ```bash
-sudo apt install openjdk-17-jdk maven
+sudo apt update
+sudo apt install openjdk-8-jdk maven
 ```
 
 ## Setup
