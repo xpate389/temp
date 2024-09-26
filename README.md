@@ -172,4 +172,4 @@ Search results (top 10):
 
 ## Contact Information
 For any questions or issues, feel free to contact me at:
-Email: TO-DO-write-email-address
+Email: apate389@depaul.edu
