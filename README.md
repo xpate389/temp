@@ -36,11 +36,11 @@ sudo apt install openjdk-8-jdk maven
 
 ## Setup
 There are 5 datasets (Dataset1, Dataset2, Dataset3, Dataset4, Dataset5) that are used to evaluate the indexing performance. You can download the datasets from the following link:
-
+https://depauledu-my.sharepoint.com/:f:/g/personal/apate389_depaul_edu/ErcdYJka04dBrr0uP2YWXsgBsiCgIj6kLB1rd3HhIvC5Ow?e=E1eVHe
 
 Steps to Setup the Dataset
 Download the datasets and save them in the datasets directory. Create the directory if it doesn’t exist:
-https://depauledu-my.sharepoint.com/:f:/g/personal/apate389_depaul_edu/ErcdYJka04dBrr0uP2YWXsgBsiCgIj6kLB1rd3HhIvC5Ow?e=E1eVHe
+
 
 ```bash
 mkdir datasets
