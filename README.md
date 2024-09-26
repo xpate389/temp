@@ -1,4 +1,4 @@
-# CSC 435 Programming Assignment 3 (Spring 2024)
+# CSC 435 Programming Assignment 3
 
 **Jarvis College of Computing and Digital Media - DePaul University**
 
