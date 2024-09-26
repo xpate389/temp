@@ -50,7 +50,7 @@ cd <path-to-repo>/datasets
 unzip Dataset1.zip
 ```
 
-How to Build and Run the Java Solution
+## How to Build and Run the Java Solution
 Build Instructions:
 To compile and build the project, follow these steps:
 
@@ -71,7 +71,7 @@ Package the project into a JAR file:
 mvn package
 ```
 
-Run Instructions:
+## Run Instructions:
 After building the project, use the following command to run the file retrieval engine:
 
 ```bash
@@ -85,7 +85,7 @@ For example, to run the application with 4 worker threads:
 java -cp target/app-java-1.0-SNAPSHOT.jar csc435.app.FileRetrievalEngine 4
 ```
 
-Commands
+## Commands
 Once the application starts, you can use the following commands:
 
 Index a Dataset:
@@ -160,15 +160,13 @@ Search results (top 10):
 * Dataset1/folder13/document38.txt 4
 ```
 
-Troubleshooting
-If you encounter any issues during the build or execution, consider the following:
-Ensure all required software is installed and properly configured.
-Verify the paths to the datasets are correct.
-Check the command syntax for errors.
-For more detailed error messages, run Maven with the -e or -X switches for debugging.
+## Troubleshooting
+1. If you encounter any issues during the build or execution, consider the following:
+2. Ensure all required software is installed and properly configured.
+3. Verify the paths to the datasets are correct.
+4. Check the command syntax for errors.
+5. For more detailed error messages, run Maven with the -e or -X switches for debugging.
 
-
-
-Contact Information
+## Contact Information
 For any questions or issues, feel free to contact me at:
 Email: TO-DO-write-email-address
