@@ -3,7 +3,9 @@
 **Jarvis College of Computing and Digital Media - DePaul University**
 
 **Student:** Ayush Patel
+
 **Email:** apate389@depaul.edu
+
 **Solution Programming Language:** Java  
 
 ---
